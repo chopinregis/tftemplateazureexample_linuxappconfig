@@ -1,0 +1,1 @@
+# tftemplateazureexample_linuxappconfig
