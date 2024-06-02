@@ -1,5 +1,3 @@
-# tftemplateazureexample_linuxappconfig
-
 # Linux Application Configuration for Azure
 
 ## Overview
