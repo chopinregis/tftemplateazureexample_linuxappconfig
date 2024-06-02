@@ -34,7 +34,3 @@ For a detailed guide on each module and its purpose, refer to the corresponding 
 ## Contributions
 
 Contributions are welcome. Please submit pull requests or issues to propose changes or additions to the documentation or Terraform configurations.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
